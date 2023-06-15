@@ -1,9 +1,7 @@
-# React TypeScript Starter Pack
+npm i - to install the project
 
-To use this template click `Use this template`
 
-### Available Scripts
+npm start - to run locale server with aplication
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+ 
+[DEMO LINK](https://NadieinOleh.github.io/Todo-app/)
